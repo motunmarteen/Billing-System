@@ -6,8 +6,8 @@
 void generateBillHeader(char name[50], char date[30])
 {
     printf("\n\n");
-        printf("\t  BILLING SYSTEM");
-        printf("\n\t  ******************");
+        printf("\t  MOTUN MARTEEN BILLING SYSTEM");
+        printf("\n\t  ***********************************");
         printf("\nDate:%s",date);
         printf("\nInvoice To: %s",name);
         printf("\n");
